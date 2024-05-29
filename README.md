@@ -33,4 +33,4 @@ This project is built using the following technologies:
 
 ---
 
-You can copy this directly into your README.md file on GitHub.
+
